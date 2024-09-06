@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/custom-video-palyer/static/css/main.41a646f3.css",
+    "main.js": "/custom-video-palyer/static/js/main.707d033e.js",
+    "static/media/217262_small.mp4": "/custom-video-palyer/static/media/217262_small.3b70c5eed8641fc921f2.mp4",
+    "index.html": "/custom-video-palyer/index.html",
+    "main.41a646f3.css.map": "/custom-video-palyer/static/css/main.41a646f3.css.map",
+    "main.707d033e.js.map": "/custom-video-palyer/static/js/main.707d033e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41a646f3.css",
+    "static/js/main.707d033e.js"
+  ]
+}
