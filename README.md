@@ -1,4 +1,4 @@
-## Demo [https://alexandrnikytenko.github.io/custom-video-palyer/]
+## [Demo](https://alexandrnikytenko.github.io/custom-video-palyer/)
 ## Custom HTML5 Video Player with Controls
 
 This project is a custom video player built using React that enhances the native HTML5 video element by providing a custom control interface. The main goal of this project is to demonstrate how to implement custom controls for HTML5 video, replacing the native browser controls with a more personalized user interface.
