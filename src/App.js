@@ -7,7 +7,7 @@ function App() {
   const [currentTime, setCurrentTime] = useState(0);
   const [duration, setDuration] = useState(0);
   const [volume, setVolume] = useState(1);
-  const [playbackRate, setPlaybackRate] = useState(1); // Начальная скорость воспроизведения
+  const [playbackRate, setPlaybackRate] = useState(1); // Start playback rate
   const videoRef = useRef(null);
   const progressRef = useRef(null);
   const volumeRef = useRef(null);
