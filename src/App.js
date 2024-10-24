@@ -103,7 +103,7 @@ function App() {
           volume={volume}
         >
           <source src={video} type="video/mp4" />
-          Ваш браузер не поддерживает видео тег.
+          Your browser does not support the video tag.
         </video>
       </div>
       <div className="controls">
@@ -130,28 +130,28 @@ function App() {
           <button
             onClick={() => changePlaybackRate(0.5)}
             disabled={playbackRate === 0.5}
-            style={playbackRate === 0.5 ? {opacity: '0.5'} : {}}
+            style={playbackRate === 0.5 ? { opacity: "0.5" } : {}}
           >
             0.5x
           </button>
           <button
             onClick={() => changePlaybackRate(1)}
             disabled={playbackRate === 1}
-            style={playbackRate === 1 ? {opacity: '0.5'} : {}}
+            style={playbackRate === 1 ? { opacity: "0.5" } : {}}
           >
             1x (Normal)
           </button>
           <button
             onClick={() => changePlaybackRate(1.5)}
             disabled={playbackRate === 1.5}
-            style={playbackRate === 1.5 ? {opacity: '0.5'} : {}}
+            style={playbackRate === 1.5 ? { opacity: "0.5" } : {}}
           >
             1.5x
           </button>
           <button
             onClick={() => changePlaybackRate(2)}
             disabled={playbackRate === 2}
-            style={playbackRate === 2 ? {opacity: '0.5'} : {}}
+            style={playbackRate === 2 ? { opacity: "0.5" } : {}}
           >
             2x
           </button>
